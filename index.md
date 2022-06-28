@@ -13,3 +13,27 @@
 ```
     git add <filename>
 ```
+1. Коммит
+```
+    git status
+```
+2. Коммит
+```
+    git log
+```
+3. Коммит
+```
+    git commit -m"Name"
+```
+4. Коммит
+```
+    git diff
+```
+5. Коммит
+```
+    git checkout master или название коммита
+```
+6. Коммит
+```
+    git config --list, --global и тд.
+```
